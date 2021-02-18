@@ -1,0 +1,49 @@
+body {
+  background-color: blue;
+
+@media screen and (min-width:) { /* OBS kan stå annat här */
+  body {
+    grid-template-columns:
+    grid-template-areas:
+    grid-gap:
+  }
+}
+
+p {
+  /*färg på text*/
+}
+
+body {
+  background-color:blue;
+}
+
+header
+  background-color: ;
+  grid-area: ;
+}
+
+section {
+  background-color: ;
+  grid-area: ;
+}
+
+aside {
+  background-color: ;
+  grid-area: ;
+}
+
+footer {
+  background-color: ;
+  grid-area: ;
+}
+
+
+img#sea {
+  width: ;
+  max-width: ;
+}
+
+img#html {
+  width: ;
+  max-width: ;
+}
